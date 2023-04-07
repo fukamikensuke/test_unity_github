@@ -84,7 +84,7 @@
 *.tif                binary
 *.tiff               binary
 *.webp               binary
-
+*.scenetemplate     binary
 # Compressed Archive
 *.7z                binary
 *.bz2               binary
